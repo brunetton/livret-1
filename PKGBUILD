@@ -6,7 +6,7 @@ pkgver=0.2
 pkgrel=2
 pkgdesc="Booklet is a small freeware program written in Java for creating small books from a PDF document. Drops from a source PDF file containing two files the fronts and backs ready to be printed and stapled. "
 arch=('i686')
-url="http://brunetton.tuxfamily.org/index.php?n=Main.Livret"
+url="https://github.com/brunetton/Livret"
 license=('GPL')
 depends=('java-runtime')
 source=( http://brunetton.tuxfamily.org/progs/$pkgname-$pkgver-all_inclusive.tar livret)
